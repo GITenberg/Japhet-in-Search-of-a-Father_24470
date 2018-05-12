@@ -1,0 +1,37 @@
+_repo: Japhet-in-Search-of-a-Father_24470
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryat, Captain
+    - Marryatt, Captain
+    - Marryat, F. W. (Frederick W.)
+    - Marryat, Kapitein
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: Reared as a foundling, and apprenticed to an apothecary, Japhet's good
+  looks and matchless talent for lying carry him through the guises of tramp, mountebank,
+  quack doctor, gentleman-about-town, and finally the only son of a wealthy general.
+  Published in 1836, Captain Marryat's picaresque seventh book was his first landlocked"
+  story.
+gutenberg_issued: '2008-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foundlings -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+title: Japhet in Search of a Father
+url: http://www.gutenberg.org/ebooks/24470
